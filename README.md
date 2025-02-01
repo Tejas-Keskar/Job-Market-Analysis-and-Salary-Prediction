@@ -17,19 +17,19 @@ It includes:
 🔹 **Data Collection** – Scraped job postings from multiple platforms using Selenium & BeautifulSoup.  
 🔹 **Data Preprocessing** – Handled missing values, encoded categorical variables, and engineered features.  
 🔹 **Salary Prediction Model** – Built using machine learning techniques trained on disclosed salary data.  
-🔹 **Web Application** 🌐 – Users can enter job details such as:  
+🔹 **Web Application** 🌐 – Users can enter job details such as: 
    - **Department & Role Category**  
    - **Experience Level**  
    - **Educational Qualification (UG/PG)**  
    - **Skills Required**  
    - Get an **instant salary prediction!** 💰  
 
-🔹 **Tableau Dashboard** 📊 – Interactive visual insights on:  
+🔹 **Tableau Dashboard** 📊 – Interactive visual insights on: 
    - **Salary distributions across industries**  
    - **Skills in demand**  
    - **Experience vs. Salary trends**  
    - **Most common job locations**  
-   
+
 🔹 **Imputation of Missing Salaries** – Used the trained model to predict and fill in salaries for job posts marked as "Not Disclosed."  
   
 ---
