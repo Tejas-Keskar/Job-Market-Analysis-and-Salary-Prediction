@@ -71,21 +71,21 @@ http://localhost:8000
 ---
 
 ## 📊 Model Training  
-📌 The salary prediction model is trained on job postings with disclosed salaries.
-📌 After training, the model imputes missing salaries where salary is 'Not Disclosed'.
-📌 Feature Engineering includes:
-✔️ Encoding Department & Role Category
-✔️ Categorizing Experience Levels
-✔️ Encoding Education Requirements
-✔️ Handling missing values & outliers in salary data 
+📌 The salary prediction model is trained on job postings with disclosed salaries.  
+📌 After training, the model imputes missing salaries where salary is 'Not Disclosed'.  
+📌 Feature Engineering includes:  
+✔️ Encoding Department & Role Category  
+✔️ Categorizing Experience Levels  
+✔️ Encoding Education Requirements  
+✔️ Handling missing values & outliers in salary data   
 
 ---
 
 ## 💡 Future Improvements
-🚀 Fine-tune the model using deep learning techniques
-📈 Expand data sources to improve prediction accuracy
-📊 Implement real-time job market insights 
-📊 Enhance the Tableau dashboard with real-time data updates
+🚀 Fine-tune the model using deep learning techniques  
+📈 Expand data sources to improve prediction accuracy  
+📊 Implement real-time job market insights  
+📊 Enhance the Tableau dashboard with real-time data updates  
 
 ---
 
