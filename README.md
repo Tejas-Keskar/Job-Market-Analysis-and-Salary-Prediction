@@ -23,11 +23,13 @@ It includes:
    - **Educational Qualification (UG/PG)**  
    - **Skills Required**  
    - Get an **instant salary prediction!** 💰  
+
 🔹 **Tableau Dashboard** 📊 – Interactive visual insights on:  
    - **Salary distributions across industries**  
    - **Skills in demand**  
    - **Experience vs. Salary trends**  
    - **Most common job locations**  
+   
 🔹 **Imputation of Missing Salaries** – Used the trained model to predict and fill in salaries for job posts marked as "Not Disclosed."  
   
 ---
