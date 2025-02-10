@@ -49,7 +49,7 @@ It includes:
 
 ## 📊 Tableau Dashboard  
 Explore key job market trends and salary insights with our **interactive Tableau dashboard**.  
-🔗 **Live Dashboard:** (https://public.tableau.com/views/your-dashboard-link)  
+🔗 **Live Dashboard:** https://public.tableau.com/views/JobMarketAnalysis_17379490447390/JobMarketAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link  
 
 📌 **Dashboard Features:**  
 - **Job Market Trends**: Analyze demand across industries, departments, and roles.  
