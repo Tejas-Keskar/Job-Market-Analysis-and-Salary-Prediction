@@ -5,9 +5,9 @@
 This project aims to analyze job market trends and predict salaries based on various job-related factors.  
 It includes:  
 
-✅ **Data Scraping & Processing** – Extracted and cleaned job postings from multiple platforms.
+✅ **Data Scraping & Processing** – Extracted and cleaned job postings from multiple platforms.  
 ✅ **Machine Learning Model** – Predicts salaries based on job characteristics.  
-✅ **Web Application** – A Flask-based UI where users can enter job details and get salary predictions. 
+✅ **Web Application** – A Flask-based UI where users can enter job details and get salary predictions.  
 ✅ **Tableau Dashboard** – Provides interactive visual insights on job trends, salaries, and required skills.       
 
 ---
