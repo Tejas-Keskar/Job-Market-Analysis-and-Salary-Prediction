@@ -2,6 +2,8 @@
 
 ## 📌 Overview  
 
+📌 *Also check out our other project:* **[Ecommerce Data Pipeline](https://github.com/Tejas-Keskar/ecommerce-data-pipeline)** – A Big Data project focused on processing and analyzing eCommerce behavior data using Spark, HDFS, MySQL and Power BI.
+
 This project aims to analyze job market trends and predict salaries based on various job-related factors.  
 It includes:  
 
