@@ -1,0 +1,14 @@
+# Data Processing
+pandas
+numpy
+scikit-learn
+
+# Machine Learning
+xgboost  # Best performing model used
+
+# Web Application
+flask  # Used to build the web app
+
+# Visualization
+matplotlib  # Used for data analysis & charts
+seaborn  # Used for advanced visualizations

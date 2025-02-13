@@ -5,10 +5,10 @@
 This project aims to analyze job market trends and predict salaries based on various job-related factors.  
 It includes:  
 
+✅ **Data Scraping & Processing** – Extracted and cleaned job postings from multiple platforms.
 ✅ **Machine Learning Model** – Predicts salaries based on job characteristics.  
-✅ **Tableau Dashboard** – Provides interactive visual insights on job trends, salaries, and required skills.  
-✅ **Web Application** – A Flask-based UI where users can enter job details and get salary predictions.  
-✅ **Data Scraping & Processing** – Extracted and cleaned job postings from multiple platforms.    
+✅ **Web Application** – A Flask-based UI where users can enter job details and get salary predictions. 
+✅ **Tableau Dashboard** – Provides interactive visual insights on job trends, salaries, and required skills.       
 
 ---
 
@@ -36,14 +36,14 @@ It includes:
 
 ## 🛠 Technologies Used  
 
-🔹 **Python** 🐍 – For data preprocessing, model training, and salary prediction.  
-🔹 **Pandas, NumPy** 📊 – Data manipulation and numerical computations.  
-🔹 **Scikit-Learn** 🤖 – Machine learning model training and evaluation.  
-🔹 **Flask** 🌐 – Web framework for building the interactive salary prediction web app.  
-🔹 **Tableau** 📊 – For interactive data visualization and insights.  
-🔹 **Selenium** 🕵️‍♂️ – Web scraping job listings from various platforms.  
-🔹 **Matplotlib & Seaborn** 📉 – Data visualization for exploratory data analysis.  
-🔹 **Git & GitHub** 🌍 – Version control and project hosting.  
+🔹 **Python** – For data preprocessing, model training, and salary prediction.  
+🔹 **Pandas, NumPy** – Data manipulation and numerical computations.  
+🔹 **Scikit-Learn** – Machine learning model training and evaluation.  
+🔹 **Flask** – Web framework for building the interactive salary prediction web app.  
+🔹 **Tableau** – For interactive data visualization and insights.  
+🔹 **Selenium** – Web scraping job listings from various platforms.  
+🔹 **Matplotlib & Seaborn** – Data visualization for exploratory data analysis.  
+🔹 **Git & GitHub** – Version control and project hosting.  
 
 ---
 
@@ -84,10 +84,10 @@ http://localhost:8000
 ---
 
 ## 💡 Future Improvements
-🚀 Fine-tune the model using deep learning techniques  
-📈 Expand data sources to improve prediction accuracy  
-📊 Implement real-time job market insights  
-📊 Enhance the Tableau dashboard with real-time data updates  
+🔹 Fine-tune the model using deep learning techniques  
+🔹 Expand data sources to improve prediction accuracy  
+🔹 Implement real-time job market insights  
+🔹 Enhance the Tableau dashboard with real-time data updates  
 
 ---
 
